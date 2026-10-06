@@ -1,0 +1,8 @@
+{
+  "name": "Prebuďte nápady k životu",
+  "description": "Nahrajte obrázok stolovej hry, plánu izby alebo čokoľvek iné a premeňte to na interaktívny zážitok vďaka umelej inteligencii.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
